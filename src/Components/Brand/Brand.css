@@ -1,0 +1,23 @@
+.brand-content {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+.vr {
+    margin: 10px;
+    border: 1px solid #00ABB3;
+    height: 300px;
+}
+.profile-pic {
+    width: 300px;
+    border-radius: 60%;
+    border: 1px solid #00ABB3 ;
+}
+.brand-statement {
+    margin-left: 10px;
+    text-align: left;
+}
+.brand-statement p {
+    font-size: 35px;
+    color: #3C4048;
+}

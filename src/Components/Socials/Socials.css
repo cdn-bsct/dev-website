@@ -1,0 +1,9 @@
+.social-menu {
+    width: max-content;
+    display: flex;
+    justify-content: space-around;
+}
+.icon-social {
+    width: 30px;
+    margin: 10px;
+}

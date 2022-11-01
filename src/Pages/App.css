@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #EAEAEA;
+}
+.navbar {
+  width: 100%;
+  height: max-content;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #3C4048;
+}
+.navbar-name {
+  color: #00ABB3;
+  margin-left: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar-links {
+  width: max-content;
+  display: flex;
+  margin-right: 25px;
+  align-items: center;
+}
+.page-content {
+  width: 95%;
+  height: max-content;
+  margin: 8px;
+  padding: 5px;
+  align-items: center;
+  border-radius: 12px;
+}
+
