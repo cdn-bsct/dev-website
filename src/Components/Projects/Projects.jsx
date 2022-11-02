@@ -5,9 +5,6 @@ export default function Projects() {
         <div className="page-content">
             <div className="project-intro">
                 <h1>Projects </h1>
-                <h4>For more details, please visit my projects tab on 
-                    <a href="https://www.linkedin.com/in/justin-feldman-294b45161/" rel="noreferrer" target="_blank"> LinkedIn</a>
-                </h4>
             </div>
             <hr className="title-class-divider"/>
             <div className="project-content">
