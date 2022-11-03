@@ -1,0 +1,33 @@
+.skill-list li {
+    list-style: none;
+    margin: 3px;
+}
+.skills-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.skill-list {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left;
+}
+.alt-1 {
+    color: #3C4048;
+}
+.alt-2{
+    color: #00ABB3;
+}
+.alt-1:hover {
+    color: #00ABB3;
+    cursor: default;
+}
+.alt-2:hover {
+    color: #3C4048;
+    cursor: default;
+}
